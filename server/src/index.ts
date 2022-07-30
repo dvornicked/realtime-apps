@@ -1,4 +1,4 @@
-import { app } from './longpolling'
+import { app } from './eventsourcing'
 
 const PORT = 3001
 
